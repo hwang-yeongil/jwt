@@ -11,3 +11,4 @@ public class JwtApplication {
 	}
 
 }
+// https://github.com/codingspecialist/Springboot-Security-JWT-Easy/tree/version2
